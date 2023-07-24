@@ -1,0 +1,30 @@
+For this task, we will be using the Arduino IDE to program the Raspberry Pi Pico. The Arduino IDE uses C/C++ as its programming language. The task is to blink an LED connected to the Raspberry Pi Pico. 
+
+The LED will be connected to the GPIO pin 2 of the Raspberry Pi Pico. A resistor (220 ohms, for example) should be connected in series with the LED to limit the current.
+
+The core function that will be necessary is the `loop` function. This function is called repeatedly by the Arduino framework and is where we will put our code to blink the LED.
+
+The `setup` function is also necessary. This function is called once when the program starts and is where we will initialize the GPIO pin as an output.
+
+Here is the Arduino code for the task:
+
+blink_led.ino
+```cpp
+// the setup function runs once when you press reset or power the board
+void setup() {
+  // initialize digital pin LED_BUILTIN as an output.
+  pinMode(LED_BUILTIN, OUTPUT);
+}
+
+// the loop function runs over and over again forever
+void loop() {
+  digitalWrite(LED_BUILTIN, HIGH);   // turn the LED on (HIGH is the voltage level)
+  delay(1000);                       // wait for a second
+  digitalWrite(LED_BUILTIN, LOW);    // turn the LED off by making the voltage LOW
+  delay(1000);                       // wait for a second
+}
+```
+
+This code will blink the LED on and off every second. The `digitalWrite` function is used to set the voltage level of the GPIO pin. When the LED is turned on, the GPIO pin is set to HIGH voltage level, and when the LED is turned off, the GPIO pin is set to LOW voltage level. The `delay` function is used to pause the program for a specified amount of time, in this case, one second.
+
+Please note that the `LED_BUILTIN` constant is used to refer to the built-in LED on the Raspberry Pi Pico. If you are connecting an external LED to a different GPIO pin, you should replace `LED_BUILTIN` with the number of the GPIO pin you are using.
