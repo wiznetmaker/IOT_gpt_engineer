@@ -103,7 +103,7 @@ Let's import the source code we created above utilizing GPT into the IOT device 
 ![스크린샷 2023-07-26 오전 8 34 19](https://github.com/wiznetmaker/IOT_gpt_engineer/assets/112835087/2c2198b0-4f66-40d6-a7df-8a8e0f83d221)
 
 The code ran fine with no errors. Sure, it was an easy example, but it only took a few keystrokes to complete the project.
-![스크린샷 2023-07-26 오전 8 45 43](https://github.com/wiznetmaker/IOT_gpt_engineer/assets/112835087/ba61304f-6801-4d6d-94f1-f649234f637c)
+![스크린샷 2023-07-26 오전 8 47 01](https://github.com/wiznetmaker/IOT_gpt_engineer/assets/112835087/e8cfcd5a-bd52-476a-ba7c-ef11f18d8451)
 ![스크린샷 2023-07-26 오전 8 46 00](https://github.com/wiznetmaker/IOT_gpt_engineer/assets/112835087/50c26c6a-1a0d-4a99-a4dd-0908e452c808)
 
 ##Project retrospective
