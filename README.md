@@ -86,9 +86,9 @@ GPT will prompt you for any questions you have. You can do prompted engineering 
 ![스크린샷 2023-07-26 오전 8 32 59](https://github.com/wiznetmaker/IOT_gpt_engineer/assets/112835087/1920605d-1f62-48a5-b10f-f786a0c593e4)
 
 ### Step_4.
+<img width="736" alt="스크린샷 2023-07-26 오전 8 47 39" src="https://github.com/wiznetmaker/IOT_gpt_engineer/assets/112835087/b1aa1981-e8a2-480a-af7f-71cd0159841e">
 
 If you get the answer and code you want, press Enter, otherwise type no to prompt try again. After that, you can answer whether you want to export the source code by typing y/n/u."y": Yes, the code has been executed."n": No, the code was not executed."u": Not sure.
-![스크린샷 2023-07-26 오전 8 33 30](https://github.com/wiznetmaker/IOT_gpt_engineer/assets/112835087/ca893d6f-51d1-41d5-b117-6e3c3ec82ee6)
 
 ### Step_5.
 
