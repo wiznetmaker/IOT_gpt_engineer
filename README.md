@@ -98,7 +98,7 @@ Go back to the folder where you saved and check the result.
 
 As shown above, GPT generates all the source code for you, so you should be able to comfortably develop within the template with only a little debugging.
 
-##Examples
+## Examples  
 Let's import the source code we created above utilizing GPT into the IOT device pico and run it.
 ![스크린샷 2023-07-26 오전 8 34 19](https://github.com/wiznetmaker/IOT_gpt_engineer/assets/112835087/2c2198b0-4f66-40d6-a7df-8a8e0f83d221)
 
