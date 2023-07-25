@@ -82,7 +82,8 @@ The message above is from "GPT Engineer" asking you for information they need in
 GPT will prompt you for any questions you have. You can do prompted engineering by talking to GPT.  
 ![스크린샷 2023-07-26 오전 8 32 10](https://github.com/wiznetmaker/IOT_gpt_engineer/assets/112835087/03a04ad5-9df6-45a0-b075-1f3f3145b219)
 
-**GPT curates your code for you**
+**GPT curates your code for you**  
+
 ![스크린샷 2023-07-26 오전 8 32 59](https://github.com/wiznetmaker/IOT_gpt_engineer/assets/112835087/1920605d-1f62-48a5-b10f-f786a0c593e4)
 
 ### Step_4.
