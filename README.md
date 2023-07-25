@@ -78,32 +78,37 @@ The message above is from "GPT Engineer" asking you for information they need in
 > (Answer in text, or type "C" to move on to the next question)  
 
 ### Step_3.
-![스크린샷 2023-07-26 오전 8 31 07](https://github.com/wiznetmaker/IOT_gpt_engineer/assets/112835087/8c93bbd3-def2-4031-a4c2-6b28044f287e)
 
+GPT will prompt you for any questions you have. You can do prompted engineering by talking to GPT.  
+![스크린샷 2023-07-26 오전 8 32 10](https://github.com/wiznetmaker/IOT_gpt_engineer/assets/112835087/03a04ad5-9df6-45a0-b075-1f3f3145b219)
 
-GPT will prompt you for any questions you have. You can do prompted engineering by talking to GPT.
+**GPT curates your code for you**
+![스크린샷 2023-07-26 오전 8 32 59](https://github.com/wiznetmaker/IOT_gpt_engineer/assets/112835087/1920605d-1f62-48a5-b10f-f786a0c593e4)
 
-GPT curates your code for you
-
-###Step_4.
+### Step_4.
 
 If you get the answer and code you want, press Enter, otherwise type no to prompt try again. After that, you can answer whether you want to export the source code by typing y/n/u."y": Yes, the code has been executed."n": No, the code was not executed."u": Not sure.
+![스크린샷 2023-07-26 오전 8 33 30](https://github.com/wiznetmaker/IOT_gpt_engineer/assets/112835087/ca893d6f-51d1-41d5-b117-6e3c3ec82ee6)
 
-###Step_5.
+### Step_5.
 
 Go back to the folder where you saved and check the result.
+![스크린샷 2023-07-26 오전 8 33 45](https://github.com/wiznetmaker/IOT_gpt_engineer/assets/112835087/03c53f04-293e-4fd3-9f85-79c2f9fb0308)
+![스크린샷 2023-07-26 오전 8 33 59](https://github.com/wiznetmaker/IOT_gpt_engineer/assets/112835087/bc21da61-e83a-4938-805a-6fe298c24f92)
 
 As shown above, GPT generates all the source code for you, so you should be able to comfortably develop within the template with only a little debugging.
 
 ##Examples
 Let's import the source code we created above utilizing GPT into the IOT device pico and run it.
+![스크린샷 2023-07-26 오전 8 34 19](https://github.com/wiznetmaker/IOT_gpt_engineer/assets/112835087/2c2198b0-4f66-40d6-a7df-8a8e0f83d221)
 
 The code ran fine with no errors. Sure, it was an easy example, but it only took a few keystrokes to complete the project.
+![스크린샷 2023-07-26 오전 8 45 43](https://github.com/wiznetmaker/IOT_gpt_engineer/assets/112835087/ba61304f-6801-4d6d-94f1-f649234f637c)
+![스크린샷 2023-07-26 오전 8 46 00](https://github.com/wiznetmaker/IOT_gpt_engineer/assets/112835087/50c26c6a-1a0d-4a99-a4dd-0908e452c808)
 
 ##Project retrospective
-"Project Retrospective: Successfully Connecting Devices with GPT Engineer and IoT"
+> "Project Retrospective: Successfully Connecting Devices with GPT Engineer and IoT"
 
-"Project Retrospective: Successfully Connecting Devices with GPT Engineer and IoT"
 While working on a project, the most important thing is to set a goal and achieve it. In this project, the goal was to successfully connect IoT devices with GPT Engineer and get the desired results. As it turned out, this goal was successfully achieved.
 
 The process of using GPT Engineer to get the IoT source code and apply it to the devices was very interesting, as we got to see firsthand how AI generates the code and how it works on the actual devices, which is a different experience from traditional development.
