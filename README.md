@@ -1,3 +1,9 @@
+
+![스크린샷 2023-07-26 오전 8 28 18](https://github.com/wiznetmaker/IOT_gpt_engineer/assets/112835087/e58f731b-5956-4012-97f5-05aead1c530a)
+
+## Things Used in this project
+![스크린샷 2023-07-26 오전 8 28 39](https://github.com/wiznetmaker/IOT_gpt_engineer/assets/112835087/ca68de21-0885-4774-9adc-27bfa21bf306)
+
 ## Story
 No coding! iot developers you can do it (with GPT) Project
 Key technologies:AI, IoTTools used: GPT EngineerProject type: Software development, Code generationApplication: IoT device and system development
@@ -17,11 +23,11 @@ I will utilize this open source to build my GPT engineering environment on my lo
 ## Project Usage
 Proceed in a Windows environment where Python can run. (Mac is fine)
 
-Here's how to use it:
+Here's how to use it:  
 
-If you want a stable release, run pip install gpt-engineer.
+If you want a stable release, run pip install gpt-engineer.  
 
-If you want a development version, run the following command.
+If you want a development version, run the following command.  
 ```python
 git clone https://github.com/AntonOsika/gpt-engineer.git
 cd gpt-engineer
@@ -50,11 +56,11 @@ gpt-engineer projects/my-new-iOTproject
 
 Note that the file that writes the prompt should not be a txtfile. It should be an executable file that the Python script can read.
 Running
-###Step_1.
+### Step_1.
 
 After Git Clone(download), configure the folder as above, add the syntax for prompting with Notepad, and save it as a regular file instead of saving as a txtfile.
 
-###Step_2.
+### Step_2.
 
 After running the cmd window, run gpt engineer and enter open AI key like below to start the project.
 
