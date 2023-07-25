@@ -106,7 +106,7 @@ The code ran fine with no errors. Sure, it was an easy example, but it only took
 ![스크린샷 2023-07-26 오전 8 47 01](https://github.com/wiznetmaker/IOT_gpt_engineer/assets/112835087/e8cfcd5a-bd52-476a-ba7c-ef11f18d8451)
 ![스크린샷 2023-07-26 오전 8 46 00](https://github.com/wiznetmaker/IOT_gpt_engineer/assets/112835087/50c26c6a-1a0d-4a99-a4dd-0908e452c808)
 
-##Project retrospective
+## Project retrospective
 > "Project Retrospective: Successfully Connecting Devices with GPT Engineer and IoT"
 
 While working on a project, the most important thing is to set a goal and achieve it. In this project, the goal was to successfully connect IoT devices with GPT Engineer and get the desired results. As it turned out, this goal was successfully achieved.
@@ -119,7 +119,7 @@ The experience we gained from this project will be invaluable in our future deve
 
 Finally, the most important lesson I learned from this project is that "AI is a tool, and it's how you use it that matters". This project showed us that AI can be utilized to solve problems in a more efficient and creative way, and this awareness will provide us with a new perspective in our future development work.
 
-##Simon by
+## Simon by
 I'd love for you to follow my project as a guide and share more good open source so that we can spread the good word.
 
 
