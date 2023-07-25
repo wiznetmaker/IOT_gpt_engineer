@@ -54,26 +54,32 @@ Run the following:
 gpt-engineer projects/my-new-iOTproject
 ```
 
-Note that the file that writes the prompt should not be a txtfile. It should be an executable file that the Python script can read.
-Running
+> Note that the file that writes the prompt should not be a txtfile. It should be an executable file that the Python script can read.
+
+›## Running
 ### Step_1.
+![스크린샷 2023-07-26 오전 8 30 35](https://github.com/wiznetmaker/IOT_gpt_engineer/assets/112835087/fa0b2a31-a168-40a7-a902-4334f2ea4c63)
 
 After Git Clone(download), configure the folder as above, add the syntax for prompting with Notepad, and save it as a regular file instead of saving as a txtfile.
 
 ### Step_2.
+![스크린샷 2023-07-26 오전 8 30 51](https://github.com/wiznetmaker/IOT_gpt_engineer/assets/112835087/dff4df09-d01c-4bf0-9ae2-98263160dda6)
 
 After running the cmd window, run gpt engineer and enter open AI key like below to start the project.
 
 The message above is from "GPT Engineer" asking you for information they need in order to recommend a project and write code for you. They need the following information
 
-Your level of experience with the Raspberry Pi Pico and coding in general.
-Your preferred programming language
-The type of project you are interested in (e.g. IoT, robotics, home automation, etc.)
-Specific components or sensors you have or want to use
-The purpose of the project (educational, hobby, professional, etc.)
-For example, we might ask, "What is your experience level with the Raspberry Pi Pico and coding in general?"
-(Answer in text, or type "C" to move on to the next question)
-###Step_3.
+- Your level of experience with the Raspberry Pi Pico and coding in general.
+- Your preferred programming language
+- The type of project you are interested in (e.g. IoT, robotics, home automation, etc.)
+- Specific components or sensors you have or want to use
+- The purpose of the project (educational, hobby, professional, etc.)
+- For example, we might ask, "What is your experience level with the Raspberry Pi Pico and coding in general?"
+> (Answer in text, or type "C" to move on to the next question)  
+
+### Step_3.
+![스크린샷 2023-07-26 오전 8 31 07](https://github.com/wiznetmaker/IOT_gpt_engineer/assets/112835087/8c93bbd3-def2-4031-a4c2-6b28044f287e)
+
 
 GPT will prompt you for any questions you have. You can do prompted engineering by talking to GPT.
 
