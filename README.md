@@ -22,28 +22,31 @@ Here's how to use it:
 If you want a stable release, run pip install gpt-engineer.
 
 If you want a development version, run the following command.
-'''python
+```python
 git clone https://github.com/AntonOsika/gpt-engineer.git
 cd gpt-engineer
 pip install -e .
 #(Alternatively, you can use a virtual environment by running make install && source venv/bin/activate).
-'''
+```
 Once you have your OpenAI API key (preferably with GPT-4 access, but we'll be running the project with GPT-3.5 Turbo), run the following:
-
+```
 export OPENAI_API_KEY=[your api key]
+```
 On Windows, run it as follows:
-
+```
 set OPENAI_API_KEY=[your api key] on cmd
-$env:OPENAI_API_KEY="[your api key]" on powershell
+$env:OPENAI_API_KEY="[your api key]" on powershell 
+```
 Create an empty folder. If you're inside the repository, you can do the following:
-
+```
 cp -r projects/example/ projects/my-new-iOTproject
+```
 Create a prompt file in a new folder.
 
 Run the following:
-
+```
 gpt-engineer projects/my-new-iOTproject
-Note that the file that writes the prompt should not be a txtfile. It should be an executable file that the Python script can read.
+```
 
 Note that the file that writes the prompt should not be a txtfile. It should be an executable file that the Python script can read.
 Running
